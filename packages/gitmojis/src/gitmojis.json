@@ -34,7 +34,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🚑️",
+      "emoji": "🚑",
       "entity": "&#128657;",
       "code": ":ambulance:",
       "description": "Critical hotfix.",
